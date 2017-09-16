@@ -1,0 +1,28 @@
+{
+  "name": "justintwang.com",
+  "version": "1.0.0",
+  "description": "Personal Website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jxt-wang/personal-website.git"
+  },
+  "author": "Justin T Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jxt-wang/personal-website/issues"
+  },
+  "homepage": "https://github.com/jxt-wang/personal-website",
+  "keywords": [
+    "Personal",
+    "Website."
+  ],
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-aws": "^0.6.2",
+    "grunt-contrib-connect": "^1.0.2"
+  }
+}
