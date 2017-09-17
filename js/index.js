@@ -1,7 +1,7 @@
 window.onload = function() {
 
   Particles.init({
-    
+
     selector: '#particles',
     color: '#FFFFFF',
     maxParticles: 200,
@@ -18,11 +18,6 @@ window.onload = function() {
         breakpoint: 425,
         options: {
           maxParticles: 100
-        }
-      }, {
-        breakpoint: 320,
-        options: {
-          maxParticles: 0
         }
       }
     ]
